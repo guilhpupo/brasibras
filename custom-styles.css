@@ -1,0 +1,14 @@
+.wm-share,
+.contatohome,
+.interior .textwidget {
+  pointer-events: none;
+}
+
+/* #wm-ipp {
+  display: none !important;
+}   */
+
+
+.box.widget_search {
+  display: none !important;
+}
